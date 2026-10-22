@@ -8,7 +8,6 @@ Welcome to the repository of **Echoes of Room 104**, a 2D Point-and-Click psycho
 *   **Game Title:** Echoes of Room 104
 *   **Genre:** 2D Point-and-Click Adventure / Psychological Mystery
 *   **Art Style:** Stylized, atmospheric 2D hand-drawn aesthetic (inspired by *Sally Face* and *Fran Bow*).
-*   **Team Presentation:** *[Insert Team Members Name(s) and Roles, e.g., Developer, Artist, Designer]*
 
 ### 2. Core Idea & Lore
 The player wakes up as a teenager trapped inside a surreal, shifting motel room. To escape, they must interact with the environment, unlock memories, and solve the dark secrets hidden within the room's walls. The atmosphere is eerie and mysterious but focuses on narrative and clever puzzles rather than cheap jump-scares.
